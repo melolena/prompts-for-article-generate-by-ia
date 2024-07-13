@@ -14,7 +14,7 @@
 
 <p align="center">
   <img 
-    src=".github/assets/preview.png"
+    src="https://github.com/melolena/prompts-for-article-generate-by-ia/blob/main/assets/image.png"
     width="400"  
   />
 </p>
